@@ -17,3 +17,8 @@ Le classi in Java. Uso di funzioni e metodi.
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+Giorno 3
+
+Algoritmi in Java. Stutture di controllo, cicli, condizionali.
