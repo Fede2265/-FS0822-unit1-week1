@@ -29,3 +29,11 @@ Algoritmi in Java. Stutture di controllo, cicli, condizionali.
 Giorno 4
 
 Strutture OOP in Java. Incapsulamento, Information-hiding, Enum, Ereditarietà, Polimorfismo, Astrattismo.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+Progetto Settimanale
+
+Player multimediale scritto impiegando i principi OOP
+
